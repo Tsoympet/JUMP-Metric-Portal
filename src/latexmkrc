@@ -1,0 +1,6 @@
+# latexmk configuration with biber
+$pdf_mode = 1;
+$interaction = 'nonstopmode';
+$recorder = 1;
+$silent = 0;
+$bibtex_use = 2;   # 2 = use biber
